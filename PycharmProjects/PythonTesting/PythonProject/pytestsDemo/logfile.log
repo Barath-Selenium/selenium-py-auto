@@ -1,0 +1,10 @@
+2024-03-13 12:50:47,412 :INFO :pytestsDemo.BaseClass :Barath
+2024-03-13 12:50:47,413 :INFO :pytestsDemo.BaseClass :krishna.com
+2024-03-13 12:52:41,124 :INFO :test_editProfile :Barath
+2024-03-13 12:52:41,125 :INFO :test_editProfile :krishna.com
+2024-03-13 13:23:36,636 :INFO :test_editProfile :Barath
+2024-03-13 13:23:36,637 :INFO :test_editProfile :krishna.com
+2024-03-13 13:23:36,644 :INFO : pytestsDemo.test_logging :Information statement
+2024-03-13 13:23:36,645 :WARNING : pytestsDemo.test_logging :Something is in warning mode
+2024-03-13 13:23:36,645 :ERROR : pytestsDemo.test_logging :A major error has happend
+2024-03-13 13:23:36,645 :CRITICAL : pytestsDemo.test_logging :Critical issue

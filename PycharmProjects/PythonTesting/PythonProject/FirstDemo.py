@@ -1,4 +1,6 @@
 print("Hello barath Welcome to matrix")
+print("Hello barath Welcome to matrix1")
+print("Hello barath Welcome to matrix2")
 
 a = 3
 print(a)

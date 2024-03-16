@@ -17,11 +17,8 @@ print(type(d))
 
 print("{} {} {}".format(b, "concate", c))
 print("Hello barath Welcome to matrix")
-print("Hello barath Welcome to matrix")
-print("Hello barath Welcome to matrix")
-print("Hello barath Welcome to matrix")
-print("Hello barath Welcome to matrix")
 
-charactr1 = "Hello world"
-print(charactr1)
+
+charactr2 = "Hello world"
+print(charactr2)
 

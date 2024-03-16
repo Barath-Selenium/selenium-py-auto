@@ -1,7 +1,9 @@
 values = [1, 2, "Barath", 4, 5]
 
 print(values[0])
+print(values[1])
 print(values[2])
+print(values[3])
 print(values[-1])  # printing last values in list.
 print(values[1:5])
 values.insert(3, "krsna")  # inserting values in list
